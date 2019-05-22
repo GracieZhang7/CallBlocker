@@ -1,0 +1,5 @@
+﻿<resources>
+    <string name="app_name">Icall</string>
+    <string name="list_edit">Edit</string>
+    <string name="list_del">Delete</string>
+</resources>
